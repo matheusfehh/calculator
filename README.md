@@ -10,4 +10,4 @@ This is a simple calculator project. The backend is made in Java and the fronten
 - You need to have Java JDK 11 installed on your computer.
 
 ## 📬 Contact Me
-- If you have any problems running the project, please email <a href="mailto:matheusfehhpronhow@gmail.com">matheusfehhpronhow@gmail.com</a>
+- If you have any problems running the project, please send email to <a href="mailto:matheusfehhpronhow@gmail.com">matheusfehhpronhow@gmail.com</a>
